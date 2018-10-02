@@ -7,12 +7,12 @@ Programming assignment 9 (PA09) - Final Project
 # Shortest paths and currency exchange
 
 ## The World's curriencies (a small subset):
-![Currency locations](../images/names.png)
+![Currency locations](images/names.png)
 
 Color key below
 
 ## Problem: Move your money
-![Problem](../images/graph.png)
+![Problem](images/graph.png)
 
 * Your goal is to move your money minimizing losses to taxes (edges) and bribes (nodes).
 * In choosing a path, choose the lowest cost (shortest path) primarily based on edge-weight, and only secondarily breaking ties by bribe rate if there are two equivalent shortest paths. 
